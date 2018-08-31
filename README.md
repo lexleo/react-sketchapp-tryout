@@ -1,6 +1,6 @@
 # react-sketchapp-try-out
 
-![SKETCHAPP](sketchapp.png)
+![SKETCHAPP](sketch.png)
 
 ## How to use
 
