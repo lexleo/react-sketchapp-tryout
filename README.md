@@ -1,9 +1,11 @@
-# Basic setup
+# react-sketchapp-try-out
+
+![SKETCHAPP](sketchapp.png)
 
 ## How to use
 
 ```
-git clone  https://github.com/airbnb/react-sketchapp/tar.gz/master | tar -xz --strip=2 react-sketchapp-master/examples/basic-setup
+git clone  https://github.com/lexleo/react-sketchapp-tryout.git
 cd react-sketchapp-try-out
 ```
 

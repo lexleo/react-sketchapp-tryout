@@ -63,7 +63,7 @@ Swatch.propTypes = Color;
 
 const Document = ({ colors }) => (
   <Artboard
-    name="Swatches"
+    name="Circles"
     style={{
       flexDirection: 'row',
       flexWrap: 'wrap',
